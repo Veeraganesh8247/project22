@@ -7,13 +7,15 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -https://agreeable-flower-03fe9e300.2.azurestaticapps.net
+
 *project demo video link*-
 
 
 
 Azure technologies used for project
 
--static web apps 
+-static web apps
+
 -Healthbot
 
 ## Features and Functionalities 😃
@@ -34,21 +36,23 @@ Azure technologies used for project
 
    
 ![Screenshot_20221228_193358](https://user-images.githubusercontent.com/118967277/209823896-b68fb86c-a70f-460c-bab6-eb567871237b.png)
-![Screenshot_20221228_193411](https://user-images.githubusercontent.com/118967277/209823926-e27f9074-1b4e-4f76-ab89-70a10dbf6454.png)
+
 
 ### About Us -
 
+![Screenshot_20221228_193957](https://user-images.githubusercontent.com/118967277/209824661-6257dbd7-c72b-4bdf-8fcd-76c9b9734c96.png)
 
 
 ### Services -
 
-
+![Screenshot_20221228_194220](https://user-images.githubusercontent.com/118967277/209824946-89b6e010-c319-49b3-8848-5418e07b34e0.png)
 
 ### Contact us -
 
 
 
-### health bot
+### health bot![Screenshot_20221228_194418](https://user-images.githubusercontent.com/118967277/209825187-7b638379-1d0c-4599-a09d-4573881dcbe4.png)
+
 
 
 
