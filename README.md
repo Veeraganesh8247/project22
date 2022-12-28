@@ -28,30 +28,33 @@ Azure technologies used for project
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot_20221228_193339](https://user-images.githubusercontent.com/118967277/209823871-a8cbe6e7-c4f9-4739-8cd3-3d829e0b6dbf.png)
 
+![Screenshot_20221228_194856](https://user-images.githubusercontent.com/118967277/209825880-ba860aca-4002-45a7-8092-d2af0f591b29.png)
 
-
-![Screenshot_20221228_193425](https://user-images.githubusercontent.com/118967277/209823971-e980d928-d31a-4c25-955e-27b61bf26876.png)
-
-   
-![Screenshot_20221228_193358](https://user-images.githubusercontent.com/118967277/209823896-b68fb86c-a70f-460c-bab6-eb567871237b.png)
-
+![Screenshot_20221228_194749](https://user-images.githubusercontent.com/118967277/209825868-5f0f0b0b-c796-43f8-a97e-75d5d36fecc2.png)
+![Screenshot_20221228_194922](https://user-images.githubusercontent.com/118967277/209825904-9a9e4681-8564-4713-8ce7-523fd0b6b8a3.png)
 
 ### About Us -
 
-![Screenshot_20221228_193957](https://user-images.githubusercontent.com/118967277/209824661-6257dbd7-c72b-4bdf-8fcd-76c9b9734c96.png)
 
+
+![Screenshot_20221228_195120](https://user-images.githubusercontent.com/118967277/209826019-b832e120-0cf1-4933-a2b4-676c856c90e2.png)
 
 ### Services -
 
-![Screenshot_20221228_194220](https://user-images.githubusercontent.com/118967277/209824946-89b6e010-c319-49b3-8848-5418e07b34e0.png)
+
+![Screenshot_20221228_195309](https://user-images.githubusercontent.com/118967277/209826230-1669c3d2-299a-4cc5-a627-d8802a2fcbb4.png)
 
 ### Contact us -
 
 
+![Screenshot_20221228_195444](https://user-images.githubusercontent.com/118967277/209826447-5efc0d3b-f4d3-4c89-a39d-cd533301653e.png)
 
-### health bot![Screenshot_20221228_194418](https://user-images.githubusercontent.com/118967277/209825187-7b638379-1d0c-4599-a09d-4573881dcbe4.png)
+### health bot -
+
+
+![Screenshot_20221228_195909](https://user-images.githubusercontent.com/118967277/209827053-1ee0ff91-1411-42cb-a7f5-65c1c709bdf5.png)
+
 
 
 
