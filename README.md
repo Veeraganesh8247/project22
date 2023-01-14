@@ -35,14 +35,16 @@ Azure technologies used for project
 
 ### About Us -
 
-![Screenshot (52)](https://user-images.githubusercontent.com/118967277/212489025-8c4ac64b-d313-4298-a6be-826d1c6cf566.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/118967277/212489732-e8771af2-a6b0-4497-abef-02d0d4be02a3.png)
+
 
 
 
 
 ### Services -
 
-![Screenshot (53)](https://user-images.githubusercontent.com/118967277/212489145-c0d77f91-7260-4d67-b666-866833e0af62.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/118967277/212489777-cd199465-e4d3-48b4-aac9-02e9ac5ff1b3.png)
 
 
 
@@ -50,16 +52,18 @@ Azure technologies used for project
 
 ### Contact us -
 
-![Screenshot (54)](https://user-images.githubusercontent.com/118967277/212489239-7cca5c6f-8c82-4922-84f1-642f5ca31e27.png)
 
+
+![Screenshot (59)](https://user-images.githubusercontent.com/118967277/212489794-9d696ad3-4cc8-4763-917e-16da857fd390.png)
 
 
 
 ### Health bot -
 
 
-![Screenshot (55)](https://user-images.githubusercontent.com/118967277/212489413-9d9166fb-9b88-41b0-9412-5a2165d5ed00.png)
 
+
+![Screenshot (60)](https://user-images.githubusercontent.com/118967277/212489809-387343f0-9240-485d-b4ef-2302ba1e1986.png)
 
 
 
