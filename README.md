@@ -14,7 +14,7 @@ This is a web based application developed for health related based website in in
 
 Azure technologies used for project
 
--static web apps
+-Static web apps
 
 -Healthbot
 
@@ -27,8 +27,8 @@ Azure technologies used for project
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
-![Screenshot (49)](https://user-images.githubusercontent.com/118967277/212487345-ba696ef9-a9f7-43aa-b3c8-989d99cb8768.png)
+## Home -
+
 
 
 
@@ -36,22 +36,25 @@ Azure technologies used for project
 
 
 
-![Screenshot_20221228_195120](https://user-images.githubusercontent.com/118967277/209826019-b832e120-0cf1-4933-a2b4-676c856c90e2.png)
+
 
 ### Services -
 
 
-![Screenshot_20221228_195309](https://user-images.githubusercontent.com/118967277/209826230-1669c3d2-299a-4cc5-a627-d8802a2fcbb4.png)
+
+
+
 
 ### Contact us -
 
 
-![Screenshot_20221228_195444](https://user-images.githubusercontent.com/118967277/209826447-5efc0d3b-f4d3-4c89-a39d-cd533301653e.png)
+
+
 
 ### Health bot -
 
 
-![Screenshot (50)](https://user-images.githubusercontent.com/118967277/212487383-ff7162cb-787d-47ee-97cd-5d85b44ee5f0.png)
+
 
 
 
