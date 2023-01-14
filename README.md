@@ -28,11 +28,9 @@ Azure technologies used for project
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![Screenshot (49)](https://user-images.githubusercontent.com/118967277/212487345-ba696ef9-a9f7-43aa-b3c8-989d99cb8768.png)
 
-![Screenshot_20221228_194856](https://user-images.githubusercontent.com/118967277/209825880-ba860aca-4002-45a7-8092-d2af0f591b29.png)
 
-![Screenshot_20221228_194749](https://user-images.githubusercontent.com/118967277/209825868-5f0f0b0b-c796-43f8-a97e-75d5d36fecc2.png)
-![Screenshot_20221228_194922](https://user-images.githubusercontent.com/118967277/209825904-9a9e4681-8564-4713-8ce7-523fd0b6b8a3.png)
 
 ### About Us -
 
@@ -50,10 +48,10 @@ Azure technologies used for project
 
 ![Screenshot_20221228_195444](https://user-images.githubusercontent.com/118967277/209826447-5efc0d3b-f4d3-4c89-a39d-cd533301653e.png)
 
-### health bot -
+### Health bot -
 
 
-![Screenshot_20221228_195909](https://user-images.githubusercontent.com/118967277/209827053-1ee0ff91-1411-42cb-a7f5-65c1c709bdf5.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/118967277/212487383-ff7162cb-787d-47ee-97cd-5d85b44ee5f0.png)
 
 
 
